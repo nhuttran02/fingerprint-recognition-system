@@ -53,9 +53,27 @@ scikit-learn (Machine learning models)
 
 SQLite/MySQL (Fingerprint data storage)
 
+## Interface of the fingerprint recognition system
+### Interface of the main system
+ ![](Image/img5/main.png)
+
+### Fingerprint recognition interface successful
+ ![](Image/img5/success.png)
+
+### Interface when user information is not found
+ ![](Image/img5/fail.png)
+
+## Interface of the database capture system
+### Interface of the main system
+ ![](Image/img5/inter1.png)
+
+### Interface when new user successfully adds fingerprint data to the system
+ ![](Image/img5/inter2.png)
+
+### The interface simulates new user data when saved to the database
+ ![](Image/img5/data.png)
+
+
 ## 👤 Author
 
 📌 Nhut Tran🔗 GitHub: nhuttran02
-
-
-
